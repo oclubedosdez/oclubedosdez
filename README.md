@@ -2,7 +2,7 @@
 
 - 📑comecei a me interassar por programação após ver anuncios de cursos gratuitos é escutar sobre a quantidade de vagas na aréa
 - ⚙️ méu primeiro projeto foi um site simples que mostra as horas do diá que mudar a cor se for de manhá, Tarde e Noite
-- 📕 Meus Hobbies são Desenhar é ouvir Gosto muito da Cultura jáponesa.
+- 📕 Meus Hobbies são Desenhar é ouvir Musica Gosto muito da Cultura jáponesa.
 
 
 
